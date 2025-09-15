@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Salary,Experience_Level,City,Date_Of_Joining
+101,Alice,IT,60000,Senior,New York,2015-06-23
+102,Bob,HR,48000,Mid,Los Angeles,2017-08-12
+103,Charlie,IT,72000,Senior,Chicago,2014-03-19
+104,David,Finance,55000,Junior,Houston,2019-11-01
+105,Eva,Marketing,50000,Mid,Phoenix,2016-07-15
+106,Frank,IT,65000,Senior,Philadelphia,2013-05-30
+107,Grace,HR,47000,Junior,San Antonio,2020-09-10
+108,Hannah,Finance,53000,Mid,San Diego,2018-04-22
+109,Ian,Marketing,51000,Mid,Dallas,2017-12-05
+110,Jack,IT,70000,Senior,San Jose,2012-02-17
